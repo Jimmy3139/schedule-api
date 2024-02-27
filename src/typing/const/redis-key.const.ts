@@ -1,0 +1,1 @@
+export const REDIS_KEY_MEMBER = 'Schedule:Member:%s';
