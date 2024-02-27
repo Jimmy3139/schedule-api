@@ -1,27 +1,27 @@
 # 排課系統
 
-### 框架
+## 框架
 
-nest.js
+- nest.js
 
-### orm
+## orm
 
-typeORM
+- typeORM
 
-### db
+## db
 
-mysql
+- mysql
 
-### cache
+## cache
 
-redis
+- redis
 
-### 配置
+## 配置
 
-@nestjs/config
+- @nestjs/config
 
 
-### npm cli
+## npm cli
 
 ```
 
